@@ -1,0 +1,36 @@
+.button
+{
+   background-color: #808EEA ;
+   border: none;
+   color : #FFFFFF;
+   padding: 15px 32px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   font-size: 18px;
+   margin: 4px 2px;
+   cursor: pointer;
+}
+
+.text_area
+{
+   text-align: center;
+   background-color: #FFFFFF;
+   color : #DE8CC0 ; /* #DEAA8C */
+   font-size: 18px;
+   margin: 4px 2px;
+}
+
+.body
+{
+   background-image: url("../images/library_image.jpeg");
+   backdrop-filter: blur(5px);
+}
+
+
+.table
+{
+   /* border: 1px solid black; */
+   text-align: center;
+   width:60%;
+}
